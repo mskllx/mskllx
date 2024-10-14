@@ -8,10 +8,11 @@ I had a huge experience in writing test cases, checklists, and test documentatio
 More than 2 years of work as a QA manual, and more than 1 year as a QA lead at CRISTALIX.GG.
 
 ## My CV
-Link: 
+[Link](https://drive.google.com/drive/u/2/folders/1VvKhygWAjg6CRMBuLH2_hFQxEtbkNCdq) 
 
 ## Portfolio
 Test documentation:
-  Test cases:
-  Checklists:
-  Mindmaps:
+
+  [Test cases](https://docs.google.com/document/d/1OqdEDzZkKTkz4mGW_MN25rMqxUHEmSSdr0p5DvJAmIU/edit?usp=sharing)
+  
+  [Checklists](https://docs.google.com/document/d/1HsMZx74WJXhxVQKsr3Rd0lHbO_2ye8tzusEZuXyzb1E/edit?tab=t.0)
