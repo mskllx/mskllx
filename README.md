@@ -11,7 +11,7 @@ More than 2 years of work as a QA manual, and more than 1 year as a QA lead at C
 [Link](https://drive.google.com/drive/u/2/folders/1VvKhygWAjg6CRMBuLH2_hFQxEtbkNCdq) 
 
 ## Additional 
-[Certificates] (https://drive.google.com/file/d/1lV33GTCXXCEAOqqYgBL8gE8Jd7oB7l7M/view?usp=sharing)
+[Certificates](https://drive.google.com/file/d/1lV33GTCXXCEAOqqYgBL8gE8Jd7oB7l7M/view?usp=sharing)
 
 ## Portfolio
 Test documentation:
